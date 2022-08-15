@@ -18,3 +18,7 @@ body{
 .roboto{
     font-family: 'Roboto Slab', serif;
 }
+
+.shadow{
+    box-shadow: 25px #e2f3f5;
+}
